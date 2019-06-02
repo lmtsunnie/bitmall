@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bitmall:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa890b7d-e6f6-4d53-8dce-f8d36daf7620" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/bcpkix-jdk15on-1.55.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/bcprov-jdk15on-1.55.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/elasticsearch-rest-client-sniffer-5.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/javax.mail-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/owasp-java-html-sanitizer-r239.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/super-csv-2.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/unboundid-ldapsdk-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/x-pack-api-5.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/x-pack-transport-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/common/interceptor/LimitRaterInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/common/interceptor/LimitRaterInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/common/swagger/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/common/swagger/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/AddressController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/AddressController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/MemberFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/MemberFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/OrderFrontController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/OrderFrontController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/conf/resource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/conf/resource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/swagger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/swagger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/common/interceptor/LimitRaterInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/common/interceptor/LimitRaterInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/common/swagger/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/common/swagger/Swagger2Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/AddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/AddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/MemberFrontController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/MemberFrontController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/OrderFrontController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/controller/OrderFrontController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/service/impl/SearchItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/service/impl/SearchItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/service/impl/SearchServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/com/sunnie/service/impl/SearchServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/conf/resource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/classes/conf/resource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/elasticsearch-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/elasticsearch-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/elasticsearch-rest-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/elasticsearch-rest-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/lang-mustache-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/lang-mustache-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/parent-join-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/parent-join-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/percolator-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/percolator-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/reindex-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/reindex-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-netty3-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-netty3-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-netty4-client-5.6.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/WEB-INF/lib/transport-netty4-client-5.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bitmall/static/swagger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/bitmall/static/swagger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/common/interceptor/LimitRaterInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/common/interceptor/LimitRaterInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/common/swagger/Swagger2Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/common/swagger/Swagger2Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/controller/AddressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/controller/AddressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/controller/MemberFrontController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/controller/MemberFrontController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/controller/OrderFrontController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/controller/OrderFrontController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/service/impl/SearchItemServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/service/impl/SearchItemServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sunnie/service/impl/SearchServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sunnie/service/impl/SearchServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/conf/resource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/conf/resource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/必读.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xmall" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xmall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="xmall" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="xmall: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchItemServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1755">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/subject/support/DelegatingSubject.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1674">
+              <caret line="99" column="31" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/web/filter/authz/AuthorizationFilter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://3a9ca7ae-5493-485d-a246-dd166581b859/schema/xmall/table/tb_user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="02f4e027-e6d6-410e-86bb-914020ba10d3">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://3a9ca7ae-5493-485d-a246-dd166581b859/schema/xmall/table/tb_member">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="02f4e027-e6d6-410e-86bb-914020ba10d3">
+              <filtering />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/OrderFrontController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="74" column="70" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>see more at</find>
+      <find>limengting.site</find>
+      <find>bith</find>
+      <find>index</find>
+      <find>稍后</find>
+      <find>10秒</find>
+      <find>e</find>
+      <find>频繁</find>
+      <find>作者的学生服务器要炸啦！</find>
+      <find>请10秒钟后再试</find>
+      <find>请10秒后再试</find>
+      <find>你手速怎么这么快，请点慢一点</find>
+      <find>当前访问总人数太多</find>
+      <find>wangji1997</find>
+      <find>/user/login</find>
+      <find>看就看</find>
+      <find>/redis/index/update</find>
+      <find>/goods/allGoods</find>
+      <find>redis</find>
+      <find>ES</find>
+      <find>.put(&quot;xpack.security.user&quot;, &quot;elastic:Wangji1997&quot;)</find>
+      <find>Settings settings = Settings.builder()</find>
+      <find>elas</find>
+      <find>ela</find>
+      <find>PreBuiltTransportClient</find>
+      <find>PreBuiltXPackTransportClient</find>
+      <find>9200</find>
+      <find>9300</find>
+      <find>&quot;elastic:Wangji1997&quot;</find>
+      <find>allGoods</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>zone1</replace>
+      <replace>zone1华北</replace>
+      <replace>com.sunnie</replace>
+      <replace>北理商城</replace>
+      <replace>* @author Sunnie</replace>
+      <replace>Created by Sunnie</replace>
+      <replace>Sunnie</replace>
+      <replace>127.0.0.1</replace>
+      <replace>123.207.143.168</replace>
+      <replace>8889</replace>
+      <replace>8888</replace>
+      <replace>请10秒后再试</replace>
+      <replace>当前访问总人数过多</replace>
+      <replace />
+      <replace>PreBuiltXPackTransportClient</replace>
+      <replace>9200</replace>
+      <replace>9300</replace>
+      <replace>&quot;\&quot;&quot; + ES_USER_NAME + &quot;:&quot; + ES_USER_PASSWORD + &quot;\&quot;&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/cn/exrick</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/annotation/RateLimiter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/exception/RestCtrlExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/annotation/SystemControllerLog.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sunnie/service/UserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/pojo/TbUser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sunnie/service/impl/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/shiro/FilterUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/shiro/MyPermissionFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/shiro/MyRealm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/shiro/MyShiroFilterFactoryBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/task/CancelOrderJob.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/applicationContext-shiro.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/utils/GeetestLib.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/aop/SystemLogAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/ContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/PanelController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/PanelServiceImpl.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/MemberFrontServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/utils/QiniuUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/OrderFrontController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/AddressServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/OrderFrontServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/nginx.conf" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/nginx.lua" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/utils/EmailUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/utils/IPInfoUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/applicationContext-redis.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/swagger/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/swagger/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/MemberFrontController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/AddressController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/limit/RedisRaterLimiter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/common/interceptor/LimitRaterInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchItemServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bitmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bitmall" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bitmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="bitmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="bitmall" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554874964784" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sunnie.service.impl" />
+      <recent name="com.sunnie.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Remote.123.207.143.168">
+    <configuration name="123.207.143.168" type="Remote">
+      <module name="bitmall" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="123.207.143.168" />
+      <option name="PORT" value="10000" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="10000" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="bitmall:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_xmall-dep" />
+        <option name="HTTP_PORT" value="8889" />
+        <option name="JNDI_PORT" value="1034" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63946" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="后台-xmall单体版:war" />
+          <artifact name="bitmall:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Remote.123.207.143.168" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.16" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa890b7d-e6f6-4d53-8dce-f8d36daf7620" name="Default Changelist" comment="" />
+      <created>1554700037620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554700037620</updated>
+      <workItem from="1554700039173" duration="29238000" />
+      <workItem from="1554875555591" duration="106000" />
+      <workItem from="1554876008030" duration="56000" />
+      <workItem from="1554876212414" duration="23275000" />
+      <workItem from="1555670020781" duration="25148000" />
+      <workItem from="1556021474953" duration="19404000" />
+      <workItem from="1556186192390" duration="9864000" />
+      <workItem from="1556268364852" duration="14022000" />
+      <workItem from="1556804628167" duration="16160000" />
+      <workItem from="1557036213728" duration="17428000" />
+      <workItem from="1557979595507" duration="598000" />
+      <workItem from="1557992929036" duration="9021000" />
+      <workItem from="1558494746599" duration="63000" />
+      <workItem from="1558494987415" duration="677000" />
+      <workItem from="1559478687740" duration="422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 10m 59s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 11m 14s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 12m 09s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 12m 17s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 12m 26s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 13m 59s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 18m 19s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 19m 49s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 21m 53s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_getUserByUsername - 2019.04.09 at 15h 25m 29s.xml">
+      <configuration name="UserServiceImplTest.getUserByUsername" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165482000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978355" visible="true" weight="0.30463982" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5021645" side_tool="true" weight="0.26800978" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27713627" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.45949075" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.3298611" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Console" order="10" weight="0.3298611" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32949308" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.501221" side_tool="true" weight="0.41820276" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.43879908" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" />
+      <window_info anchor="bottom" id="Version Control" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Redis Servers" order="6" weight="0.32967034" />
+      <window_info anchor="right" id="Database" order="7" weight="0.17460318" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/web/servlet/ShiroHttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#5836#5837#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/OrderFrontServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-568">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/utils/EmailUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1837">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#1095#1110#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="224" column="15" selection-start-line="224" selection-start-column="15" selection-end-line="224" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/exception/XmallException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/InetAddress.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/utils/IPInfoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.6.RELEASE/spring-webmvc-5.1.6.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="565" selection-start-line="565" selection-end-line="565" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/utils/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="41" column="84" lean-forward="true" selection-start-line="41" selection-start-column="84" selection-end-line="41" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.2/elasticsearch-5.6.2.jar!/org/elasticsearch/common/transport/InetSocketTransportAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.2/elasticsearch-5.6.2.jar!/org/elasticsearch/action/ActionRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#1431#1432#0" expanded="true" />
+            <element signature="e#1496#1497#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.2/elasticsearch-5.6.2.jar!/org/elasticsearch/common/xcontent/XContentFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.2/elasticsearch-5.6.2.jar!/org/elasticsearch/action/index/IndexRequestBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/swagger/swagger-ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="167" column="50" selection-start-line="167" selection-start-column="50" selection-end-line="167" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="114" column="82" selection-start-line="114" selection-start-column="82" selection-end-line="114" selection-end-column="82" />
+          <folding>
+            <element signature="e#4580#4586#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/swagger/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/LoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="167" column="32" selection-start-line="167" selection-start-column="32" selection-end-line="167" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/SecurityUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/MemberFrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="188" column="66" selection-start-line="188" selection-start-column="66" selection-end-line="188" selection-end-column="66" />
+          <folding>
+            <element signature="e#3147#3163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/swagger/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/annotation/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/constant/CommonConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/limit/RedisRaterLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/interceptor/InterceptorConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/interceptor/LimitRaterInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="72" column="13" lean-forward="true" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+          <folding>
+            <element signature="e#923#950#1" expanded="true" />
+            <element signature="e#1001#1027#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/subject/Subject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/common/shiro/MyPermissionFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/service/impl/SearchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/subject/support/DelegatingSubject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="99" column="31" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-all/1.4.0/shiro-all-1.4.0.jar!/org/apache/shiro/web/filter/authz/AuthorizationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3a9ca7ae-5493-485d-a246-dd166581b859/schema/xmall/table/tb_user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="02f4e027-e6d6-410e-86bb-914020ba10d3">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3a9ca7ae-5493-485d-a246-dd166581b859/schema/xmall/table/tb_member">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="02f4e027-e6d6-410e-86bb-914020ba10d3">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/OrderFrontController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="74" column="70" selection-start-line="74" selection-start-column="70" selection-end-line="74" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/必读.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sunnie/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>xmall-dep:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bitmall</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
